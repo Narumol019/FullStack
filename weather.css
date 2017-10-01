@@ -11,6 +11,10 @@ img {
     margin-top: 5px;
     margin-right: 25px;
 }
+#forecastbox{
+    background-color: #ffcccc;
+    text-align: center;
+}
 
 h2 {
     font-size: 24px;
@@ -29,8 +33,8 @@ h4 {
 .jumbotron {
     background-color: #f4511e;
     color: #fff;
-    padding: 150px 25px;
-    font-family: Montserrat, sans-serif;
+    padding: 150px 20px;
+    font-family: 'Germania One', cursive;
 }
 .container-fluid {
     padding: 60px 50px;
