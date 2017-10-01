@@ -3,6 +3,15 @@ body {
     line-height: 1.8;
     color: #818181;
 }
+
+img {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    margin-right: 25px;
+}
+
 h2 {
     font-size: 24px;
     text-transform: uppercase;
@@ -16,7 +25,7 @@ h4 {
     color: #303030;
     font-weight: 100;
     margin-bottom: 30px;
-}  
+}
 .jumbotron {
     background-color: #f4511e;
     color: #fff;
@@ -68,7 +77,7 @@ h4 {
     font-style: normal;
 }
 .panel {
-    border: 1px solid #f4511e; 
+    border: 1px solid #f4511e;
     border-radius:0 !important;
     transition: box-shadow 0.5s;
 }
@@ -144,7 +153,7 @@ footer .glyphicon {
     0% {
       opacity: 0;
       transform: translateY(70%);
-    } 
+    }
     100% {
       opacity: 1;
       transform: translateY(0%);
@@ -154,7 +163,7 @@ footer .glyphicon {
     0% {
       opacity: 0;
       -webkit-transform: translateY(70%);
-    } 
+    }
     100% {
       opacity: 1;
       -webkit-transform: translateY(0%);
